@@ -4,11 +4,11 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
 import styles_button1 from '../styles/ext_css/Button1.module.css'
-import Button_Two from '../components/Button2';
-import Button_Three from '../components/Button3'
-import Button_Four from '../components/Button4';
-import Button_Five from '../components/Button5';
-import Button_Six from '../components/Button6';
+import Button_Two from '../styles/ext_css/Button2.module.css';
+import Button_Three from '../styles/ext_css/Button3.module.css'
+import Button_Four from '../styles/ext_css/Button4.module.css';
+import Button_Five from '../styles/ext_css/Button5.module.css';
+import Button_Six from '../styles/ext_css/Button6.module.css';
 
 
 
