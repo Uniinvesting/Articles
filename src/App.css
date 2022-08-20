@@ -36,7 +36,11 @@
 .grid-right {
   margin-right: 400px;
 }
-
-
-
+.coverpage-background {
+  position: absolute;
+  background: white;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
 
