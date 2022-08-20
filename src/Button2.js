@@ -8,7 +8,7 @@ export default function Button_Two() {
       <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
     
       <div className={styles.Button_Two}>
-        <button >Saving 💰</button>
+        <button >Saving 🐷</button>
       </div>
     </div>
   );

@@ -1,35 +1,29 @@
 
-
-button {
-  color: white;
-  padding: 20px 40px;
-  border: none;
-  font-weight: bold;
-  width: 22%;
-  height: 5%;
-  border-radius: 25px;
-  transition-duration: 0.4s;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  border: none;
-  color: white;
-  padding: 16px 32px;
+.ArticleButtonList{
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
+  padding: 10px;
+  font-size: 25px;
+
+
+}
+
+.ArticleButtonList p {
+  padding: 50px;
+  font-size: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
 
 }
 
 .button:hover {opacity: 1}
 
 .article_button_grid_container {
-  margin-top: 17%;
+  margin-top: 2%;
   display: grid;
-  margin-left: 18%;
+  position: relative;
+  text-align: center;
+  margin-left: 7%;
   grid-template-columns: 1fr 1fr;
   grid-gap: 0px;
   
