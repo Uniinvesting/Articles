@@ -49,7 +49,7 @@ export default function Home() {
             </Link>
             </div>
             <div>
-            <Link href="./InvestingPage">
+            <Link href="./SavingsPage">
             <div className={styles_button2.Button_Two}>
               <button className={styles_button2.button_two}> Saving 🐷</button>
             </div>
