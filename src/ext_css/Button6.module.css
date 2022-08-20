@@ -32,4 +32,7 @@ button {
 .Button_Six button {
     
     background-color: #e3d5ca;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 50px;
 }

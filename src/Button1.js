@@ -1,14 +1,14 @@
 import logo from './logo.svg';
-import styles from './App.css';
+import styles from './ext_css/Button1.module.css';
 
-export default function Button_One() {
+export default function Button_Two() {
 
   return (
     <div>
       <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
     
-      <div id={styles.button}>
-        <button type="button">Investing 💰</button>
+      <div className={styles.Button_Owo}>
+        <button >Investing 💰</button>
       </div>
     </div>
   );

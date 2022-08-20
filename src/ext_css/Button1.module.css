@@ -1,5 +1,3 @@
-
-
 button {
     color: white;
     padding: 20px 40px;
@@ -29,11 +27,11 @@ button {
   
   .button:hover {opacity: 1}
 
-.Button_Four button {
+.Button_Owo button {
     
-    background-color: #cdb4db;
-    margin-bottom: 50px;
+    background-color: #ff9770;
+    margin-top: 3px;
     width: 200px;
     height: 50px;
+
 }
-  

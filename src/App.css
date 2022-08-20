@@ -10,7 +10,6 @@ button {
   border-radius: 25px;
   transition-duration: 0.4s;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  background-color: #f4511e;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -22,18 +21,28 @@ button {
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
-  margin-bottom: 1000px;
+
 }
 
 .button:hover {opacity: 1}
 
 .article_button_grid_container {
-  margin-top: 20%;
+  margin-top: 17%;
   display: grid;
   margin-left: 18%;
   grid-template-columns: 1fr 1fr;
   grid-gap: 0px;
   
 }
+
+.grid-left {
+  margin-left: 100px;
+}
+
+.grid-right {
+  margin-right: 400px;
+}
+
+
 
 

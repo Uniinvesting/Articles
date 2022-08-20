@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Button_one from './Button1'
+import Button_One from './Button1'
 import Button_Two from './Button2';
 import Button_Three from './Button3'
 import Button_Four from './Button4';
@@ -14,7 +14,7 @@ function App() {
       <div className="article_button_grid_container">
         <div className="grid-left">
           <ul> 
-            <Button_one />
+            <Button_One />
             <Button_Two />
             <Button_Three />
           </ul>
