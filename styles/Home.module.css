@@ -1,0 +1,46 @@
+
+
+
+.ArticleButtonList{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+
+
+}
+
+.ArticleButtonList p {
+  padding: 50px;
+  font-size: 20px;
+  margin-right: 130px;
+  margin-left: 130px;
+
+}
+
+.ArticleButtonList h1 {
+  background: -webkit-linear-gradient(#ffb4a2, #bbd0ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.button:hover {opacity: 1}
+
+.article_button_grid_container {
+  margin-top: 2%;
+  display: grid;
+  position: relative;
+  text-align: center;
+  margin-left: 7%;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 0px;
+  
+}
+
+.grid_left {
+  margin-left: 100px;
+}
+
+.grid_right {
+  margin-right: 400px;
+}

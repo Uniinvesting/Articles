@@ -1,0 +1,73 @@
+
+
+
+.InvestingPageHome {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ff9770;
+    text-align: center;
+    color: white;
+    width: 80%;
+    height: 450px;
+    border: 15px solid transparent;
+    padding: 50px;
+    margin-top: 2%;
+    margin-left: 7%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    font-size: 50px;
+
+}
+
+
+.courseTable {
+    margin-top: 5%;
+    display: grid;
+    margin-left: 9%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0px;
+}
+
+.courseBox {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding: 10px;
+    border: 2px solid transparent;
+    background-color: #f0e6d1;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+}
+
+.courseBox2 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding: 10px;
+    border: 2px solid transparent;
+    margin: 0;
+    background-color: #fbc4ab;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    text-align: left;
+}
+
+.courseBox3 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding: 10px;
+    border: 2px solid transparent;
+    margin: 0;
+    background-color: #f08080;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    text-align: left;
+}
