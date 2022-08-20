@@ -1,6 +1,8 @@
 import styles from '/styles/ext_css/InvestingPage.module.css'
 import Head from 'next/head'
 import Image from 'next/Image'
+import Link from 'next/Link'
+import Home from '.'
 import { FileNameMissingError } from '@3rdweb/sdk'
 
 
@@ -126,6 +128,12 @@ export default function InvestingPage() {
              </div>
              
          </div>
+         
+        <div>
+            <Link href="./">
+            <button className={styles.goBackBtn}> Articles </button>
+            </Link>
+        </div>
     </div>
         
     )
