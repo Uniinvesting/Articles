@@ -88,25 +88,41 @@ export default function InvestingPage() {
              
              <div className={styles.articleBox}>
                  <h2>What Happens When The Stock Market Crashes?</h2>
-                 <p> Author: Luisa Rollenhagen</p>
+                 <b><p> Author: Luisa Rollenhagen</p></b>
                  <p>A Stock Market crash seems pretty dramatic. Over the years, many have felt substantial 
                     effects of their markets crashing. But now, you don't.
                  </p>
              </div>
              <div className={styles.articleBox2}>
-                 <h2>Article 2</h2>
+                <h2>The Market Crash of 2008 Explained</h2>
+                 <b><p>Author: Veneta Lusk</p></b>
+                 <p>The Stock Market crash of 2008 was the biggest crash till-date. Learn more about it and how you 
+                    can protect yourself from such possible crashes anytime.
+                 </p>
              </div>
              <div className={styles.articleBox3}>
-                 <h2>Article 3</h2>
+             <h2>Stock Market Crash 1929</h2>
+                 <b><p>Author: Lusia Rollenhagen</p></b>
+                 <p>The Stock Market was one of the biggest crashes in history. How did it happen and what caused it?
+                 </p>
              </div>
              <div className={styles.articleBox}>
-                 <h2>Article 4</h2>
+             <h2>Active vs. Passing Investing in Canada</h2>
+                 <b><p>Author: Andrew Goldman</p></b>
+                 <p>Not sure how to invest? Learn about these two popular methods and what works for you in today's world.
+                 </p>
              </div>
              <div className={styles.articleBox2}>
-                 <h2>Article 5</h2>
+             <h2>Financial Adivsors: How to Choose and The Cost</h2>
+                 <b><p>Author: Michael Allen</p></b>
+                 <p>Find out exactly what a Financial Advisor does and why you may need one.
+                 </p>
              </div>
              <div className={styles.articleBox3}>
-                 <h2>Article 6</h2>
+             <h2>Best Investing Strategies</h2>
+                 <b><p>Author: Roger Wohlner</p></b>
+                 <p>There isn't one good strategy. There are mutliple. Find out which one works for you
+                 </p>
              </div>
              
          </div>

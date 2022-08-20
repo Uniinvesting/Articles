@@ -224,25 +224,38 @@
 }
 
 .articleBox p {
-    margin-bottom: 200px;
-    
-    padding-bottom: 100px;
+    font-size: 15px;
 }
 
 .articleBox2 {
     font-family: 'Open Sans', sans-serif;
     width: 350px;
     height: 160px;
-    padding: 10px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
     border: 2px solid transparent;
-    margin: 0;
-    background-color: #fbc4ab;
+    background-color: #fbc4ab;;
     border-radius: 20px;
     text-align: center;
-    margin-bottom: 20px;
+    
     box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
     text-align: left;
     color: white;
+}
+
+.articleBox2 p {
+    font-size: 15px;
+}
+
+
+
+.articleBox2 h2 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 1px;
 }
 
 .articleBox3 {
@@ -259,4 +272,102 @@
     box-shadow: 2px 2px 9px 3px #888888;
     text-align: left;
     color: white;
+}
+
+.articleBox3 h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 1px;
+}
+
+.articleBox3 p {
+    font-size: 15px;
+}
+
+.articleBox4 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #f0e6d1;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.articleBox4 h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 1px;
+}
+
+.articleBox4 p {
+    font-size: 15px;
+}
+
+.courseBox5 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #fbc4ab;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.courseBox5 h2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 1px;
+}
+
+.articleBox5 p {
+    font-size: 15px;
+}
+
+.courseBox6 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #f08080;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.courseBox6 h2 {
+    margin-top: 5px;
+    margin-bottom: 7px;
+    padding: 1px;
+}
+
+
+.articleBox6 p {
+    font-size: 15px;
 }
