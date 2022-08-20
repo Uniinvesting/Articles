@@ -40,7 +40,57 @@
   position: absolute;
   background: white;
   z-index: 1;
-  width: 100%;
-  height: 100%;
+  width: 99%;
+  height: 120%;
 }
 
+#investing-articles{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article-box {
+  border: 4px solid #e9f2ff;
+  border-radius: 12px;
+  margin: 1%;
+  text-align: left;
+  padding: 6%;
+}
+
+.centered-text {
+  display: flex;
+  justify-content: center;
+  font-size: xxx-large;
+  font-weight: 700;
+  margin: 3%;
+}
+
+.article-author {
+  font-size: medium;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  font-weight: 700;
+}
+
+.article-title {
+  font-weight: 700;
+}
+
+.color-header {
+  border: solid #e9f2ff;
+  width: 100%;
+  margin-top: -3%;
+  border-radius: 12px;
+  margin-bottom: 3%;
+}
+
+.article-dscr {
+  font-size: medium;
+  margin-top: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  flex: 0 0 33%;
+}
