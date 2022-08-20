@@ -19,6 +19,7 @@
 }
 
 
+
 .courseTable {
     margin-top: 5%;
     display: grid;
@@ -31,31 +32,64 @@
     font-family: 'Open Sans', sans-serif;
     width: 350px;
     height: 160px;
-    padding: 10px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
     border: 2px solid transparent;
     background-color: #f0e6d1;
     border-radius: 20px;
     text-align: center;
-    margin-bottom: 20px;
+    
     box-shadow: 2px 2px 9px 3px #888888;
     margin-bottom: 63px;
     text-align: left;
+    color: white;
 }
+
+.courseBox h2 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 1px;
+}
+
+.courseBox p {
+    margin-bottom: 200px;
+    
+    padding-bottom: 100px;
+}
+
+
+
+
 
 .courseBox2 {
     font-family: 'Open Sans', sans-serif;
     width: 350px;
     height: 160px;
-    padding: 10px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
     border: 2px solid transparent;
-    margin: 0;
-    background-color: #fbc4ab;
+    background-color: #fbc4ab;;
     border-radius: 20px;
     text-align: center;
-    margin-bottom: 20px;
+    
     box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
     text-align: left;
+    color: white;
 }
+
+
+
+.courseBox2 h2 {
+    margin-top: 5px;
+    margin-bottom: 26px;
+    padding: 1px;
+}
+
 
 .courseBox3 {
     font-family: 'Open Sans', sans-serif;
@@ -70,4 +104,159 @@
     margin-bottom: 20px;
     box-shadow: 2px 2px 9px 3px #888888;
     text-align: left;
+    color: white;
+}
+
+.courseBox3 h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 1px;
+}
+
+.courseBox4 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #f0e6d1;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.courseBox4 h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 1px;
+}
+
+.courseBox5 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #fbc4ab;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.courseBox5 h2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 1px;
+}
+
+
+.courseBox6 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #f08080;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.courseBox6 h2 {
+    margin-top: 5px;
+    margin-bottom: 7px;
+    padding: 1px;
+}
+
+.articleTable {
+    margin-top: 5%;
+    display: grid;
+    margin-left: 9%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0px;
+    color: white;
+}
+
+.articleBox {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+    border: 2px solid transparent;
+    background-color: #f0e6d1;
+    border-radius: 20px;
+    text-align: center;
+    
+    box-shadow: 2px 2px 9px 3px #888888;
+    margin-bottom: 63px;
+    text-align: left;
+    color: white;
+}
+
+.articleBox h2 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 1px;
+}
+
+.articleBox p {
+    margin-bottom: 200px;
+    
+    padding-bottom: 100px;
+}
+
+.articleBox2 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding: 10px;
+    border: 2px solid transparent;
+    margin: 0;
+    background-color: #fbc4ab;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    text-align: left;
+    color: white;
+}
+
+.articleBox3 {
+    font-family: 'Open Sans', sans-serif;
+    width: 350px;
+    height: 160px;
+    padding: 10px;
+    border: 2px solid transparent;
+    margin: 0;
+    background-color: #f08080;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 9px 3px #888888;
+    text-align: left;
+    color: white;
 }

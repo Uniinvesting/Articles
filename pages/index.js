@@ -4,11 +4,11 @@ import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
 import styles_button1 from '../styles/ext_css/Button1.module.css'
-import Button_Two from '../styles/ext_css/Button2.module.css';
-import Button_Three from '../styles/ext_css/Button3.module.css'
-import Button_Four from '../styles/ext_css/Button4.module.css';
-import Button_Five from '../styles/ext_css/Button5.module.css';
-import Button_Six from '../styles/ext_css/Button6.module.css';
+import styles_button2 from '../styles/ext_css/Button2.module.css';
+import styles_button3 from '../styles/ext_css/Button3.module.css'
+import styles_button4 from '../styles/ext_css/Button4.module.css';
+import styles_button5 from '../styles/ext_css/Button5.module.css';
+import styles_button6 from '../styles/ext_css/Button6.module.css';
 
 
 
@@ -48,15 +48,47 @@ export default function Home() {
             </div>
             </Link>
             </div>
-            <Button_Two />
-            <Button_Three />
+            <div>
+            <Link href="./InvestingPage">
+            <div className={styles_button2.Button_Two}>
+              <button className={styles_button2.button_two}> Saving 🐷</button>
+            </div>
+            </Link>
+            </div>
+            <div>
+            <Link href="./InvestingPage">
+            <div className={styles_button3.Button_Three}>
+              <button className={styles_button3.button_three}> Taxes 🚫</button>
+            </div>
+            </Link>
+            </div>
+            
           </ul>
         </div>
         <div className={styles.grid_right}>
           <ul>
-            <Button_Four />
-            <Button_Five />
-            <Button_Six />
+          <div>
+            <Link href="./InvestingPage">
+            <div className={styles_button4.Button_Four}>
+              <button className={styles_button4.button_four}> Crypto 🤖</button>
+            </div>
+            </Link>
+            </div>
+            <div>
+            <Link href="./InvestingPage">
+            <div className={styles_button5.Button_Five}>
+              <button className={styles_button5.button_five}> Accounts 💳</button>
+            </div>
+            </Link>
+            </div>
+            <div>
+            <Link href="./InvestingPage">
+            <div className={styles_button6.Button_Six}>
+              <button className={styles_button6.button_six}> Finance 🦄</button>
+            </div>
+            </Link>
+            </div>
+            
           </ul>
         </div>
       </div>
