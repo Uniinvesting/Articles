@@ -34,13 +34,14 @@ export default function InvestingPage() {
 
         }}><u>Courses</u> 🦄</h1>
         <div className={styles.courseTable}>
-             
+            <Link href="/Lessons/CryptoLesson">
             <div className={styles.courseBox}>
                 <h2>Intro to Crypto 🚀</h2>
                 
                 <p> Learn all about Crypto with this beginner course.
                 </p>
             </div>
+            </Link>
             <div className={styles.courseBox2}>
                 <h2>How to Invest in Crypto 🧠</h2>
                 <p> Learn all about the different cryptocurrencies and how to invest in them.
@@ -81,12 +82,14 @@ export default function InvestingPage() {
         }}><u>Articles</u> 📚</h1>
                 <div className={styles.articleTable}>
              
+             
              <div className={styles.articleBox}>
                  <h2>What is Cryptocurrency</h2>
                  <b><p> Author: Robert Stevens</p></b>
                  <p>A beginner's guide to Cryptocurrency.
-                 </p>
+                 </p> 
              </div>
+             
              <div className={styles.articleBox2}>
                 <h2>What is Ethereum?</h2>
                  <b><p>Author: Andrew Goldman</p></b>
