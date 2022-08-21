@@ -37,6 +37,7 @@ export default function InvestingPage() {
         }}><u>Courses</u> 🦄</h1>
         <div className={styles.courseTable}>
              
+            <Link href="/Lessons/SavingsLesson">
             <div className={styles.courseBox}>
                 <h2>Intro to Savings ✅</h2>
                 
@@ -44,6 +45,7 @@ export default function InvestingPage() {
                     to save effeciently to live confidently.
                 </p>
             </div>
+            </Link>
             <div className={styles.courseBox2}>
                 <h2>Account Types 🎉</h2>
                 <p> There are a lot of account types, which can be overwhelming to look at and choose. However, don't worry, we got your back. With this course, learn 
