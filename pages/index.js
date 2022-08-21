@@ -75,14 +75,14 @@ export default function Home() {
             </Link>
             </div>
             <div>
-            <Link href="./InvestingPage">
+            <Link href="./AccountsPages">
             <div className={styles_button5.Button_Five}>
               <button className={styles_button5.button_five}> Accounts 💳</button>
             </div>
             </Link>
             </div>
             <div>
-            <Link href="./InvestingPage">
+            <Link href="./FinancePage">
             <div className={styles_button6.Button_Six}>
               <button className={styles_button6.button_six}> Finance 🦄</button>
             </div>

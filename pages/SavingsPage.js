@@ -132,7 +132,7 @@ export default function InvestingPage() {
          
         <div>
             <Link href="./">
-            <button className={styles.goBackBtn}> Articles </button>
+            <button className={styles.goBackBtn}> Catalog </button>
             </Link>
         </div>
     </div>
