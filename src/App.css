@@ -14,8 +14,6 @@
   text-align: center;
   padding: 10px;
   font-size: 25px;
-
-
 }
 
 .ArticleButtonList p {
@@ -23,7 +21,6 @@
   font-size: 20px;
   margin-right: 100px;
   margin-left: 100px;
-
 }
 
 .button:hover {opacity: 1}

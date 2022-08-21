@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import styles from './ext_css/Button6.module.css';
+import styles from '../ext_css/Button6.module.css';
 
 export default function Button_Six() {
 

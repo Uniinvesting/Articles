@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import styles from './ext_css/Button5.module.css';
+import styles from '../ext_css/Button5.module.css';
 
 export default function Button_Five() {
 

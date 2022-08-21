@@ -1,5 +1,5 @@
 import React from 'react'
-import "./ext_css/Signin-create-account.css"
+import "../ext_css/Signin-create-account.css"
 import {BiLogIn} from "react-icons/bi"
 
 function create() {
@@ -7,7 +7,7 @@ function create() {
   console.log("Created account")
 }
 
-const Create_account = () => {
+const CreateAccount = () => {
   return (
     <div className="panel">
       <h3>Create Account</h3>
@@ -26,4 +26,4 @@ const Create_account = () => {
   )
 }
 
-export default Create_account
+export default CreateAccount
