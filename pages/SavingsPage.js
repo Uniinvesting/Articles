@@ -123,7 +123,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox3}>
              <h2>What is a Savings Account?</h2>
                  <b><p>Author: Luisa Rollenhagen</p></b>
-                 <p>Wonderin what is a Savings Account is? Learn all about them and how you can use them 
+                 <p>Wondering what is a Savings Account is? Learn all about them and how you can use them 
                     to your advantage!
                  </p>
              </div>

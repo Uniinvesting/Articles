@@ -56,7 +56,7 @@ export default function Home() {
             </Link>
             </div>
             <div>
-            <Link href="./InvestingPage">
+            <Link href="./TaxPage">
             <div className={styles_button3.Button_Three}>
               <button className={styles_button3.button_three}> Taxes 🚫</button>
             </div>
