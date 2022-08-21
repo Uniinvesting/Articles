@@ -68,7 +68,7 @@ export default function Home() {
         <div className={styles.grid_right}>
           <ul>
           <div>
-            <Link href="./InvestingPage">
+            <Link href="./CryptoPage">
             <div className={styles_button4.Button_Four}>
               <button className={styles_button4.button_four}> Crypto 🤖</button>
             </div>
