@@ -8,7 +8,7 @@ export default function Investing_Page() {
       <div id='investing-articles'>
         {investment_articles.map((data, key) => {
           return (
-            <a href='https://www.investopedia.com/terms/s/stock-market-crash.asp#:~:text=Famous%20stock%20market%20crashes%20include,the%202020%20COVID%2D19%20pandemic.'>
+            <a href={data.link}>
               <div className='article-box' key={key} id={data.id}>
                 <div className='color-header'></div>
                 <div className='article-title'>{data.article_name}</div>

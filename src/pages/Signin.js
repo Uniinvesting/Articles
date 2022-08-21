@@ -3,7 +3,7 @@ import { Input } from "reactstrap"
 import "../ext_css/Signin-create-account.css"
 import {BiLogIn} from "react-icons/bi"
 
-const Signin = () => {
+const SignIn = () => {
   const[email, setEmail] = useState("");
   const[password, setPassword] = useState("");
 
@@ -11,7 +11,7 @@ const Signin = () => {
     if (email === "") {
       alert("Please type your username and password");
     }
-    else if (email === "seanwaterloo2997@gmail.com" && password === "12341234") {
+    else if (email === "guest@gmail.com" && password === "12341234") {
       window.location = "/home";
     }
     else {
@@ -33,4 +33,4 @@ const Signin = () => {
   )
 }
 
-export default Signin
+export default SignIn

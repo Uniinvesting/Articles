@@ -1,8 +1,8 @@
 import './App.css';
 import Home from './pages/Home';
 import InvestingPage from './pages/InvestingPage';
-import Signin from './pages/Signin';
-import SignOut from './pages/SignOut';
+import SignIn from './pages/SignIn';
+import SignUp from './pages/SignOut';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
@@ -13,8 +13,8 @@ function App() {
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:ital,wght@1,700&display=swap" rel="stylesheet"></link>
       <Router>
         <Routes>
-          <Route path="/" element={<div><Signin /></div>} />
-          <Route path="/sign-up" element={<div><SignOut /></div>} />
+          <Route path="/" element={<div><SignIn /></div>} />
+          <Route path="/sign-up" element={<div><SignUp /></div>} />
           <Route path="/home" element={<div><Home /></div>} />
           <Route path='/invest-articles' element={<div><InvestingPage /></div>} />
         </Routes>
