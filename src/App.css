@@ -1,3 +1,13 @@
+:root {
+  --color1: #ff9770;
+  --color2: #8DDCA4;
+  --color3: #F3EDC3;
+  --color4: #cdb4db;
+  --color5: #bde0fe;
+  --color6: #e3d5ca;
+
+  --blur: 0 8px 16px rgb(0, 0, 0, 0.4);
+}
 
 .ArticleButtonList{
   font-family: 'Open Sans', sans-serif;

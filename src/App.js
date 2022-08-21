@@ -7,6 +7,7 @@ import Button_Four from './Button4';
 import Button_Five from './Button5';
 import Button_Six from './Button6';
 import Investing_Page from './InvestingPage';
+import Signin from './Signin';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
@@ -48,6 +49,8 @@ function App() {
           </ul>
         </div>
       </div>
+
+      <Signin />
     </div>
   );
 }
