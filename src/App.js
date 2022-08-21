@@ -8,6 +8,7 @@ import Button_Five from './Button5';
 import Button_Six from './Button6';
 import Investing_Page from './InvestingPage';
 import Signin from './Signin';
+import Create_account from './Create_account';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
@@ -50,7 +51,7 @@ function App() {
         </div>
       </div>
 
-      <Signin />
+      <Create_account />
     </div>
   );
 }
