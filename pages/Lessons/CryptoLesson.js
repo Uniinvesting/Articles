@@ -1,8 +1,8 @@
 import styles from '/styles/ext_css/CryptoPage.module.css'
 import lesson_styles from '/styles/ext_css/Lessons.module.css'
 import Head from 'next/head'
-import Image from 'next/Image'
-import Link from 'next/Link'
+import Image from 'next/image'
+import Link from 'next/link'
 import Home from '..'
 
 

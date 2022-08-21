@@ -1,7 +1,7 @@
 import styles from '/styles/ext_css/InvestingPage.module.css'
 import Head from 'next/head'
-import Image from 'next/Image'
-import Link from 'next/Link'
+import Image from 'next/image'
+import Link from 'next/link'
 import Home from '.'
 import { FileNameMissingError } from '@3rdweb/sdk'
 

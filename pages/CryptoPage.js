@@ -1,8 +1,7 @@
 import styles from '/styles/ext_css/CryptoPage.module.css'
-import Head from 'next/head'
-import Image from 'next/Image'
-import Link from 'next/Link'
-import Home from '.'
+
+import Link from 'next/link'
+
 
 
 export default function InvestingPage() {

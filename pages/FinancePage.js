@@ -1,7 +1,6 @@
 import styles from '/styles/ext_css/Finance.module.css'
-import Head from 'next/head'
-import Image from 'next/Image'
-import Link from 'next/Link'
+
+import Link from 'next/link'
 
 
 
