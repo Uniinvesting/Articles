@@ -53,7 +53,7 @@ export default function AccountsPages() {
             </div>
             <div className={styles.courseBox4}>
                 <h2>Retirement Accounts 🚶🏻‍♂️</h2>
-                <p> Ever wonder about LIRA? Don't worry if you don't know - this course teaches you how to save your money 
+                <p> Ever wonder about LIRA? Don&apos;t worry if you don&apos;t know - this course teaches you how to save your money 
                     after you stop working.
         
                 </p>
@@ -102,7 +102,7 @@ export default function AccountsPages() {
              <div className={styles.articleBox}>
              <h2>RESP - How and What it is</h2>
                  <b><p>Author: Robert Stevens</p></b>
-                 <p>A tax-free savings account for a child's future education. 
+                 <p>A tax-free savings account for a child&apos;s future education. 
                  </p>
              </div>
              <div className={styles.articleBox2}>
@@ -112,9 +112,9 @@ export default function AccountsPages() {
                  </p>
              </div>
              <div className={styles.articleBox3}>
-             <h2>What's a LIRA?</h2>
+             <h2>What&apos;s a LIRA?</h2>
                  <b><p>Author: Andrew Goldman</p></b>
-                 <p>Roll money from pension after retirement - that's LIRA.
+                 <p>Roll money from pension after retirement - that&apos;s LIRA.
                  </p>
              </div>
              

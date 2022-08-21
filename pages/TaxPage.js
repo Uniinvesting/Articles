@@ -17,7 +17,7 @@ export default function InvestingPage() {
             <p style={{
                 padding: '5px',
                 fontSize: '22px',
-            }}> Don't be scared of tax. <em>Fight it.</em>
+            }}> Don&apos;t be scared of tax. <em>Fight it.</em>
             </p>
         </div>
         
@@ -49,7 +49,7 @@ export default function InvestingPage() {
             </div>
             <div className={styles.courseBox3}>
                 <h2>How to pay Tax 🌈</h2>
-                <p> Take this courses to learn how and when to pay tax so you don't have to pay an extra dime.
+                <p> Take this courses to learn how and when to pay tax so you don&apos;t have to pay an extra dime.
                 </p>
             </div>
             <div className={styles.courseBox4}>
@@ -103,7 +103,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox}>
              <h2>The Ultimate Guide to T4</h2>
                  <b><p>Author: Andrew Goldman</p></b>
-                 <p>This guide will provide all the essential T4 info you'll need about the 
+                 <p>This guide will provide all the essential T4 info you&apos;ll need about the 
                     famous slips.
                  </p>
              </div>

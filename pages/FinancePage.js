@@ -2,7 +2,7 @@ import styles from '/styles/ext_css/Finance.module.css'
 import Head from 'next/head'
 import Image from 'next/Image'
 import Link from 'next/Link'
-import Home from '.'
+
 
 
 export default function FinancePage() {
@@ -101,7 +101,7 @@ export default function FinancePage() {
              <div className={styles.articleBox}>
              <h2>RESP - How and What it is</h2>
                  <b><p>Author: Robert Stevens</p></b>
-                 <p>A tax-free savings account for a child's future education. 
+                 <p>A tax-free savings account for a child&apos;s future education. 
                  </p>
              </div>
              <div className={styles.articleBox2}>
@@ -111,9 +111,9 @@ export default function FinancePage() {
                  </p>
              </div>
              <div className={styles.articleBox3}>
-             <h2>What's a LIRA?</h2>
+             <h2>What&apos;s a LIRA?</h2>
                  <b><p>Author: Andrew Goldman</p></b>
-                 <p>Roll money from pension after retirement - that's LIRA.
+                 <p>Roll money from pension after retirement - that&apos;s LIRA.
                  </p>
              </div>
              

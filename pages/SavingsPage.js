@@ -48,7 +48,7 @@ export default function InvestingPage() {
             </Link>
             <div className={styles.courseBox2}>
                 <h2>Account Types 🎉</h2>
-                <p> There are a lot of account types, which can be overwhelming to look at and choose. However, don't worry, we got your back. With this course, learn 
+                <p> There are a lot of account types, which can be overwhelming to look at and choose. However, don&apos;t worry, we got your back. With this course, learn 
                     all about the different accounts and choose which ones meet your lifestyle.
                 </p>
             </div>
@@ -94,7 +94,7 @@ export default function InvestingPage() {
                  <h2>Emergency Funds</h2>
                  <b><p> Author: Andrew Goldman</p></b>
                  <p>Emergency Funds? Learn all about how to get them, how much, and more just in case if one 
-                    of those "edge" cases appear in your life. 
+                    of those  &quot;edge&quot; cases appear in your life. 
                  </p>
              </div>
              <div className={styles.articleBox2}>

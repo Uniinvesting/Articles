@@ -47,7 +47,7 @@ export default function SavingsLessons() {
             <div className={styles.courseBox}>
                     <h2>Tokens vs. Currency</h2>
                     
-                    <p> Know the different types of "coins" you can invest in.
+                    <p> Know the different types of &quot;coins&quot; you can invest in.
                     </p>
             </div>
             <div className={styles.courseBox}>

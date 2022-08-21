@@ -66,7 +66,7 @@ export default function InvestingPage() {
             </div>
             <div className={styles.courseBox3}>
                 <h2>Applications of Crypto 🌄</h2>
-                <p> Take this course to see the positive impact Crypto is making on today's world.
+                <p> Take this course to see the positive impact Crypto is making on today&apos;s world.
             
                 </p>
             </div>
@@ -86,7 +86,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox}>
                  <h2>What is Cryptocurrency</h2>
                  <b><p> Author: Robert Stevens</p></b>
-                 <p>A beginner's guide to Cryptocurrency.
+                 <p>A beginner&apos;s guide to Cryptocurrency.
                  </p> 
              </div>
              
@@ -111,7 +111,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox2}>
              <h2>Ethereum vs Bitcoin.</h2>
                  <b><p>Author: Robert Stevens</p></b>
-                 <p>Ethereum and Bitcoin are the largest and most important cryptocurrencies in the world. Here's how 
+                 <p>Ethereum and Bitcoin are the largest and most important cryptocurrencies in the world. Here&apos;s how 
                     they are different.
                  </p>
              </div>

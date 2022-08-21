@@ -19,7 +19,7 @@ export default function InvestingPage() {
                 padding: '5px',
                 fontSize: '22px',
             }}> Investing is almost like Shopping for the best Product. Without <em><b>Research</b></em> and <em><b>Knowledge</b></em>,
-                you won't know what the best product is on the market.
+                you won&apos;t know what the best product is on the market.
             </p>
         </div>
         
@@ -47,19 +47,19 @@ export default function InvestingPage() {
             </div>
             <div className={styles.courseBox2}>
                 <h2>Intro to Crypto Investing 🕹</h2>
-                <p> Crypto isn't hard. Obtain industry knowledge about cryptocurrencies ranging from how to trade, applications,
+                <p> Crypto isn&apos;t hard. Obtain industry knowledge about cryptocurrencies ranging from how to trade, applications,
                     different types of crypto, and how to incorporate crypto in your everyday life, and more.
                 </p>
             </div>
             <div className={styles.courseBox3}>
                 <h2>Intro to Bonds 🪙</h2>
-                <p> Bonds aren't outdated. Who said they were? Expand your knowledge of investments with bonds ranging from what they are,
+                <p> Bonds aren&apos;t outdated. Who said they were? Expand your knowledge of investments with bonds ranging from what they are,
                     how to use them efficiently, how prices fluctuate, and more.
                 </p>
             </div>
             <div className={styles.courseBox4}>
                 <h2>Advanced Stock Market 🔎</h2>
-                <p> Soldify your skills with this Advanced Stock Market Course where you'll learn 
+                <p> Soldify your skills with this Advanced Stock Market Course where you&apos;ll learn 
                     how to predict stocks, call trades at the right time, and more all to increase the value 
                     of your stock portfolio.
                 </p>
@@ -92,7 +92,7 @@ export default function InvestingPage() {
                  <h2>What Happens When The Stock Market Crashes?</h2>
                  <b><p> Author: Luisa Rollenhagen</p></b>
                  <p>A Stock Market crash seems pretty dramatic. Over the years, many have felt substantial 
-                    effects of their markets crashing. But now, you don't.
+                    effects of their markets crashing. But now, you don&apos;t.
                  </p>
              </div>
              <div className={styles.articleBox2}>
@@ -111,7 +111,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox}>
              <h2>Active vs. Passing Investing in Canada</h2>
                  <b><p>Author: Andrew Goldman</p></b>
-                 <p>Not sure how to invest? Learn about these two popular methods and what works for you in today's world.
+                 <p>Not sure how to invest? Learn about these two popular methods and what works for you in today&apos;s world.
                  </p>
              </div>
              <div className={styles.articleBox2}>
@@ -123,7 +123,7 @@ export default function InvestingPage() {
              <div className={styles.articleBox3}>
              <h2>Best Investing Strategies</h2>
                  <b><p>Author: Roger Wohlner</p></b>
-                 <p>There isn't one good strategy. There are mutliple. Find out which one works for you
+                 <p>There isn&apos;t one good strategy. There are mutliple. Find out which one works for you
                  </p>
              </div>
              

@@ -41,7 +41,7 @@ export default function SavingsLessons() {
             <div className={styles.courseBox}>
                     <h2>What is Savings?</h2>
                     
-                    <p> What is the verb "Save"? Find out the elegant definition 
+                    <p> What is the verb &quot;Save&quot;? Find out the elegant definition 
                         in the world of finance.
                     </p>
             </div>

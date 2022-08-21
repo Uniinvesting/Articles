@@ -29,12 +29,12 @@ export default function Home() {
     <div className={styles.ArticleButtonList}>
      
       <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:ital,wght@1,700&display=swap" rel="stylesheet"></link>
       <div className={styles.TitleText}>
         <h1> Expand your Knowledge in Finance</h1>
         <p> Learn about everything related to finance ranging from how to save, to making money
-          to live a life that you want. This is why we're here, with these <b>Courses</b> and <b>Articles</b> from every Sector, be confident 
+          to live a life that you want. This is why we&apos;re here, with these <b>Courses</b> and <b>Articles</b> from every Sector, be confident 
           about money <br /> <em> no matter where you come from. </em> 
         </p>
       </div>
