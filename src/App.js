@@ -9,14 +9,14 @@ function App() {
   return (
     <div>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:ital,wght@1,700&display=swap" rel="stylesheet"></link>
       <Router>
         <Routes>
-          <Route path="/" element={<div><Home /></div>} />
-          <Route path='/invest-articles' element={<div><InvestingPage /></div>} />
-          <Route path="/sign-in" element={<div><Signin /></div>} />
+          <Route path="/" element={<div><Signin /></div>} />
           <Route path="/sign-up" element={<div><SignOut /></div>} />
+          <Route path="/home" element={<div><Home /></div>} />
+          <Route path='/invest-articles' element={<div><InvestingPage /></div>} />
         </Routes>
       </Router>
     </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 import "../ext_css/Signin-create-account.css"
-import {BiLogIn} from "react-icons/bi"
+import {BsCloudPlus} from "react-icons/bs"
 
 function create() {
   // If "password" and "confirm password" fields match, create account
@@ -20,8 +20,9 @@ const SignOut = () => {
       <input className="textbox" type="password" placeholder="Confirm Password" />
       <div className="button-container">
         <input className="button" type="button" onClick={() => {create()}} value="Create Account" />
-        <BiLogIn className="icon" />
+        <BsCloudPlus className="icon" size={22}/>
       </div>
+      <p>Already have an account? <a href="/">Log in!</a></p>
     </div>
   )
 }
