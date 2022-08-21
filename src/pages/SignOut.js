@@ -7,7 +7,7 @@ function create() {
   console.log("Created account")
 }
 
-const CreateAccount = () => {
+const SignOut = () => {
   return (
     <div className="panel">
       <h3>Create Account</h3>
@@ -26,4 +26,4 @@ const CreateAccount = () => {
   )
 }
 
-export default CreateAccount
+export default SignOut
